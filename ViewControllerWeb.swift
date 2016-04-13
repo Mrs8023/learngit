@@ -56,7 +56,7 @@ class ViewControllerWeb: UIViewController,UIWebViewDelegate{
                 
             case SSDKResponseState.Success:
                 self.showText("分享成功")
-                print("分享成功")
+                print("分享成功klahsduivan;bdfnaiofdbnfpuiebrajv;jdfh;")
             case SSDKResponseState.Fail:
                 self.showText("分享失败")
                 print("分享失败,错误描述:\(error)")
