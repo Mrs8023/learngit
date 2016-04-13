@@ -787,13 +787,35 @@ class ViewController: UIViewController,MKMapViewDelegate, UIGestureRecognizerDel
             
             map_view.removeAnnotation(sub_annmo)
         }
-        table_view .frame = CGRectMake(0,self.view.bounds.size.height - buttonH,self.view.bounds.size.width, buttonH)
-        recentBT.frame = CGRect(x: self.view.frame.size.width/5*4, y:self.view.frame.size.height - buttonH - 50, width: 40, height: 40)
-        map_view.frame = CGRectMake(0, 0, self.view.bounds.size.width, self.view.bounds.size.height - 150)
-        table_view.reloadData()
-        
-        
-    }
+:qw
 
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+q
+:wq
+wq
+wq
+q
+!q
 
